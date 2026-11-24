@@ -1,0 +1,10 @@
+fish_id,pulse_requests,not_issued_requests,issued_events,acknowledged_events,unacknowledged_events,unknown_events,events_with_ACK_stale_fault,yaw_TX_packets,acknowledged_yaw_packets,unknown_yaw_packets,pulse_reject_rows,invalid_matched_yaw_ACK_rows,event_ACK_rate_percent,observed_event_ACK_lower_bound_percent,event_ACK_upper_bound_percent,yaw_packet_ACK_rate_percent
+fish_1,7,0,7,7,0,0,0,22,19,0,0,0,100.0,100.0,100.0,86.36363636363636
+fish_2,9,0,9,8,1,0,0,36,31,0,0,0,88.88888888888889,88.88888888888889,88.88888888888889,86.11111111111111
+fish_3,13,0,13,13,0,0,0,62,49,0,0,0,100.0,100.0,100.0,79.03225806451613
+fish_4,13,0,13,11,2,0,0,59,30,0,0,0,84.61538461538461,84.61538461538461,84.61538461538461,50.847457627118644
+fish_5,4,0,4,4,0,0,0,16,16,0,0,0,100.0,100.0,100.0,100.0
+fish_6,12,0,12,12,0,0,0,52,32,0,0,0,100.0,100.0,100.0,61.53846153846154
+fish_7,10,0,10,10,0,0,0,44,31,0,0,0,100.0,100.0,100.0,70.45454545454545
+fish_8,1,0,1,1,0,0,0,4,4,0,0,0,100.0,100.0,100.0,100.0
+fish_9,3,0,3,3,0,0,0,10,10,0,0,0,100.0,100.0,100.0,100.0

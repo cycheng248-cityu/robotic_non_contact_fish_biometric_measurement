@@ -1,0 +1,16 @@
+{
+  "ack_window_s": 0.35,
+  "definition": "At least one nonzero TX receives a qualifying MATCHED_ACK within the per-packet window.",
+  "physical_yaw_verified": false,
+  "logs": [
+    "D:\\2nd_project_AUV_deepwater_fish_size_estimation\\AUV_length_data\\fish_1\\udp_link.csv",
+    "D:\\2nd_project_AUV_deepwater_fish_size_estimation\\AUV_length_data\\fish_2\\udp_link.csv",
+    "D:\\2nd_project_AUV_deepwater_fish_size_estimation\\AUV_length_data\\fish_3\\udp_link.csv",
+    "D:\\2nd_project_AUV_deepwater_fish_size_estimation\\AUV_length_data\\fish_4\\udp_link.csv",
+    "D:\\2nd_project_AUV_deepwater_fish_size_estimation\\AUV_length_data\\fish_5\\udp_link.csv",
+    "D:\\2nd_project_AUV_deepwater_fish_size_estimation\\AUV_length_data\\fish_6\\udp_link.csv",
+    "D:\\2nd_project_AUV_deepwater_fish_size_estimation\\AUV_length_data\\fish_7\\udp_link.csv",
+    "D:\\2nd_project_AUV_deepwater_fish_size_estimation\\AUV_length_data\\fish_8\\udp_link.csv",
+    "D:\\2nd_project_AUV_deepwater_fish_size_estimation\\AUV_length_data\\fish_9\\udp_link.csv"
+  ]
+}

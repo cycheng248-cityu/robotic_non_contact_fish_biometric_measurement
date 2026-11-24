@@ -1,0 +1,10 @@
+fish_id,run_id,source_csv,ack_window_s,pulse_requests,not_issued_requests,issued_events,acknowledged_events,unacknowledged_events,unknown_events,event_ACK_rate_percent,observed_event_ACK_lower_bound_percent,event_ACK_upper_bound_percent,events_with_ACK_stale_fault,yaw_TX_packets,acknowledged_yaw_packets,unknown_yaw_packets,pulse_reject_rows,invalid_matched_yaw_ACK_rows
+fish_1,run_1,D:\2nd_project_AUV_deepwater_fish_size_estimation\AUV_length_data\fish_1\udp_link.csv,0.35,7,0,7,7,0,0,100.0,100.0,100.0,0,22,19,0,0,0
+fish_2,run_1,D:\2nd_project_AUV_deepwater_fish_size_estimation\AUV_length_data\fish_2\udp_link.csv,0.35,9,0,9,8,1,0,88.88888888888889,88.88888888888889,88.88888888888889,0,36,31,0,0,0
+fish_3,run_1,D:\2nd_project_AUV_deepwater_fish_size_estimation\AUV_length_data\fish_3\udp_link.csv,0.35,13,0,13,13,0,0,100.0,100.0,100.0,0,62,49,0,0,0
+fish_4,run_1,D:\2nd_project_AUV_deepwater_fish_size_estimation\AUV_length_data\fish_4\udp_link.csv,0.35,13,0,13,11,2,0,84.61538461538461,84.61538461538461,84.61538461538461,0,59,30,0,0,0
+fish_5,run_1,D:\2nd_project_AUV_deepwater_fish_size_estimation\AUV_length_data\fish_5\udp_link.csv,0.35,4,0,4,4,0,0,100.0,100.0,100.0,0,16,16,0,0,0
+fish_6,run_1,D:\2nd_project_AUV_deepwater_fish_size_estimation\AUV_length_data\fish_6\udp_link.csv,0.35,12,0,12,12,0,0,100.0,100.0,100.0,0,52,32,0,0,0
+fish_7,run_1,D:\2nd_project_AUV_deepwater_fish_size_estimation\AUV_length_data\fish_7\udp_link.csv,0.35,10,0,10,10,0,0,100.0,100.0,100.0,0,44,31,0,0,0
+fish_8,run_1,D:\2nd_project_AUV_deepwater_fish_size_estimation\AUV_length_data\fish_8\udp_link.csv,0.35,1,0,1,1,0,0,100.0,100.0,100.0,0,4,4,0,0,0
+fish_9,run_1,D:\2nd_project_AUV_deepwater_fish_size_estimation\AUV_length_data\fish_9\udp_link.csv,0.35,3,0,3,3,0,0,100.0,100.0,100.0,0,10,10,0,0,0

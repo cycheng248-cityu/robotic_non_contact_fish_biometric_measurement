@@ -1,0 +1,2 @@
+pulse_requests,not_issued_requests,issued_events,acknowledged_events,unacknowledged_events,unknown_events,events_with_ACK_stale_fault,yaw_TX_packets,acknowledged_yaw_packets,unknown_yaw_packets,pulse_reject_rows,invalid_matched_yaw_ACK_rows,event_ACK_rate_percent,observed_event_ACK_lower_bound_percent,event_ACK_upper_bound_percent,yaw_packet_ACK_rate_percent
+72,0,72,69,3,0,0,305,222,0,0,0,95.83333333333333,95.83333333333333,95.83333333333333,72.78688524590164
