@@ -1,0 +1,96 @@
+{
+  "L_power": {
+    "parameters": [
+      0.426326563214608,
+      1.7026969766722615
+    ],
+    "parameter_order": [
+      "a",
+      "b"
+    ],
+    "residual_df": 7,
+    "jacobian_rank": 2,
+    "jacobian_condition": 3.1376173901362536,
+    "parameters_at_bound": 0,
+    "converged_starts": 12,
+    "LOO_status": "completed; exploratory internal validation"
+  },
+  "H_power": {
+    "parameters": [
+      3.0869372707162617,
+      1.1930748688958916
+    ],
+    "parameter_order": [
+      "a",
+      "b"
+    ],
+    "residual_df": 7,
+    "jacobian_rank": 2,
+    "jacobian_condition": 4.385886161181237,
+    "parameters_at_bound": 0,
+    "converged_starts": 12,
+    "LOO_status": "completed; exploratory internal validation"
+  },
+  "LH_power": {
+    "parameters": [
+      0.6309369514548606,
+      0.9321208793177236,
+      1.1065497134461133
+    ],
+    "parameter_order": [
+      "a",
+      "bL",
+      "bH"
+    ],
+    "residual_df": 6,
+    "jacobian_rank": 3,
+    "jacobian_condition": 6.969875325426215,
+    "parameters_at_bound": 0,
+    "converged_starts": 12,
+    "LOO_status": "completed; exploratory internal validation"
+  },
+  "HL_ratio_power": {
+    "parameters": [
+      22.626129026752878,
+      1.2529263229443666
+    ],
+    "parameter_order": [
+      "a",
+      "b"
+    ],
+    "residual_df": 7,
+    "jacobian_rank": 2,
+    "jacobian_condition": 3.07601718707005,
+    "parameters_at_bound": 0,
+    "converged_starts": 12,
+    "LOO_status": "completed; exploratory internal validation"
+  },
+  "four_term": {
+    "parameters": [
+      0.06326689835582376,
+      2.434797483788764,
+      0.025036588468294586,
+      -3.999999999999917,
+      1.3244470344814034e-08,
+      5.999999999999999,
+      13.333435985031613,
+      -2.0827535022400636
+    ],
+    "parameter_order": [
+      "a1",
+      "b1",
+      "a2",
+      "b2",
+      "a3",
+      "b3",
+      "a4",
+      "b4"
+    ],
+    "residual_df": 1,
+    "jacobian_rank": 8,
+    "jacobian_condition": 9277058.041881954,
+    "parameters_at_bound": 2,
+    "converged_starts": 12,
+    "LOO_status": "skipped: training n <= parameter count"
+  }
+}
