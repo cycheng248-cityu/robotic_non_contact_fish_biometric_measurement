@@ -1,0 +1,10 @@
+{
+  "loss": "alpha-CIoU(alpha=2.0) + Wing(w=10, epsilon=2)",
+  "alpha": 2.0,
+  "wing_w": 10.0,
+  "wing_epsilon": 2.0,
+  "box_gain": 9.0,
+  "pose_gain": 12.0,
+  "kobj_gain": 3.0,
+  "ultralytics_version": "8.3.78"
+}
