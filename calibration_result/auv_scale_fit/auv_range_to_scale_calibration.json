@@ -1,0 +1,48 @@
+{
+  "created": "2026-09-17T16:41:07",
+  "source_image_size": [
+    1920,
+    1080
+  ],
+  "cropped_image_size": [
+    1280,
+    720
+  ],
+  "top_crop_xyxy": [
+    0,
+    0,
+    1280,
+    720
+  ],
+  "left_crop_xyxy": [
+    0,
+    0,
+    1280,
+    720
+  ],
+  "right_crop_xyxy": [
+    0,
+    0,
+    1280,
+    720
+  ],
+  "metric_auv_panel": "left",
+  "range_mode": "x_axis",
+  "auv_camera_xy_cm": [
+    30.0,
+    13.0
+  ],
+  "top_homography_file": "D:\\2nd_project_AUV_deepwater_fish_size_estimation\\calibration\\top_camera_results\\top_camera_to_tank_homography.npz",
+  "number_of_trials": 5,
+  "range_min_cm": 11.670045852661133,
+  "range_max_cm": 26.930050373077393,
+  "curve_type": "polynomial_degree_2",
+  "polynomial_coefficients_highest_power_first": [
+    -1.336932030870934e-05,
+    0.0012516191083501817,
+    -0.005633697247459341
+  ],
+  "r_squared": 0.9967003506614617,
+  "rmse_cm_per_pixel": 0.00024159711412980632,
+  "warning": "Use the same crops and range definition in the final pipeline. Do not extrapolate beyond the fitted range."
+}
