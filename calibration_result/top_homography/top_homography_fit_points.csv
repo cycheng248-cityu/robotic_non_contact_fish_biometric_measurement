@@ -1,0 +1,6 @@
+﻿trial_id,composite_image,top_midpoint_u_px,top_midpoint_v_px,true_x_cm,true_y_cm,homography_inlier,estimated_x_cm,estimated_y_cm,fit_position_error_cm,true_auv_horizontal_range_cm,estimated_auv_horizontal_range_cm,fit_range_error_cm
+fit_02,D:\2nd_project_AUV_deepwater_fish_size_estimation\calibration\homography_fit_inputs\top_calibraion_640.png,501.0,257.0,30.0,13.0,True,31.017233,13.0373335,1.0179178,0.0,1.0179177529753507,1.0179177529753507
+fit_03,D:\2nd_project_AUV_deepwater_fish_size_estimation\calibration\homography_fit_inputs\top_calibraion_640.png,32.0,446.0,0.0,0.0,True,-0.10680273,0.25439212,0.27590248,32.69556544854363,32.69357874306772,0.0019867054759146185
+fit_04,D:\2nd_project_AUV_deepwater_fish_size_estimation\calibration\homography_fit_inputs\top_calibraion_640.png,636.0,436.0,40.0,0.0,True,39.581646,-0.2641338,0.4947593,16.401219466856727,16.362921046245873,0.03829842061085387
+fit_05,D:\2nd_project_AUV_deepwater_fish_size_estimation\calibration\homography_fit_inputs\top_calibraion_640.png,30.0,82.0,0.0,27.0,True,-0.11306497,26.737825,0.2855157,33.1058907144937,33.09870886091609,0.007181853577606034
+fit_06,D:\2nd_project_AUV_deepwater_fish_size_estimation\calibration\homography_fit_inputs\top_calibraion_640.png,621.0,64.0,40.0,27.0,True,39.620987,27.234583,0.4457354,17.204650534085253,17.1809993899018,0.02365114418345371
